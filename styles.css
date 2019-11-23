@@ -4,20 +4,22 @@ body {
 }
 
 .learn {
+  margin: 2%
   font-family: 'Press Start 2P', cursive;
   color: #FEF2BF;
-  font-size: .75rem;
+  font-size: 2rem;
 }
 .learn a {
   padding-left: 20px;
   color: #FEF2BF;
   font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
 }
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 2rem;
-  margin:  2%;
+  font-size: 3rem;
+  margin:  3%;
   color: #FEF2BF;
 }
 
