@@ -38,6 +38,12 @@ body {
   border-radius: 20%;
 }
 
+.footer {
+  color: #6b717f;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+}
+
 @media screen and (max-width: 902px) {
   .btn {
     margin: 10px;
@@ -58,6 +64,11 @@ body {
     font-size: 2rem;
     margin:  10% 2% 2% 2%;
     color: #FEF2BF;
+  }
+  .footer {
+    color: #6b717f;
+    font-family: sans-serif;
+    font-size: 2rem;
   }
 }
 
@@ -85,12 +96,6 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
-}
-
-.footer {
-  color: #6b717f;
-  font-family: sans-serif;
-  font-size: 1.2rem;
 }
 
 .footer a {
